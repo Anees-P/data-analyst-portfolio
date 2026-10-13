@@ -6,7 +6,8 @@
 Analyzed pricing, promotions, and revenue trends using SQL, regression analysis, and Power BI.
 
 ### Tools Used
-- SQL / MySQL
+- EXCEL
+- MySQL
 - Power BI
 - Regression Analysis
 
